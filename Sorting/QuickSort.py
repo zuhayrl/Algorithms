@@ -1,5 +1,5 @@
 # QUICK SORT
-#Best case: nlogn   Worst Case: n^2
+#Best case: nlogn   Worst Case: n^2     Average Case nlogn
 import random
 
 #Sort Algorithm =======================================================================
