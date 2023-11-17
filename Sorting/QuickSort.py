@@ -27,7 +27,7 @@ def quicksort(list):
 
 #Create Data
 data = []
-for i in range(0,10):
+for i in range(0,20):
     data.append(random.randint(1,100))
 
 
